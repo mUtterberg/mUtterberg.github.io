@@ -1,4 +1,4 @@
-.days li { border-bottom: 1px solid indigo; padding-bottom: 5px; margin-bottom: 5px;}
+.days > li { border-bottom: 1px solid indigo; padding-bottom: 5px; margin-bottom: 5px;}
 
 
 .container {
