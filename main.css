@@ -1,6 +1,5 @@
 .days > li { border-bottom: 1px solid indigo; padding-bottom: 5px; margin-bottom: 5px;}
 
-
 .container {
     overflow: hidden;
 }
@@ -39,4 +38,8 @@
 .btn.active {
   background-color: #666;
   color: white;
+}
+
+.data {
+    background-color: gold;
 }
