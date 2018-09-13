@@ -40,10 +40,14 @@
   color: white;
 }
 
-.data {
-    background-color: lightyellow;
-}
-
 .web {
     background-color: lightblue;
+}
+
+.kata {
+    background-color: lightgreen;
+}
+
+.data {
+    background-color: lightyellow;
 }
