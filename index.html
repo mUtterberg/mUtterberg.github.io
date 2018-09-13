@@ -58,6 +58,36 @@
         Note: The official challenge site (<a href="https://www.100daysofcode.com/">100daysofcode.com</a>) has recommendations and <a href="https://github.com/kallaway/100-days-of-code">resources</a> for anyone wishing to undertake similar endeavors. They recommend tweeting about progress daily, but I'm choosing to tweet weekly or as needed.
       </p>
     
+      
+      <!-- Control buttons -->
+      <div id="myBtnContainer">
+        <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+        <button class="btn" onclick="filterSelection('cars')"> Cars</button>
+        <button class="btn" onclick="filterSelection('animals')"> Animals</button>
+        <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
+        <button class="btn" onclick="filterSelection('colors')"> Colors</button>
+      </div>
+
+      <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
+      <div class="container">
+        <div class="filterDiv cars">BMW</div>
+        <div class="filterDiv colors fruits">Orange</div>
+        <div class="filterDiv cars">Volvo</div>
+        <div class="filterDiv colors">Red</div>
+        <div class="filterDiv cars animals">Mustang</div>
+        <div class="filterDiv colors">Blue</div>
+        <div class="filterDiv animals">Cat</div>
+        <div class="filterDiv animals">Dog</div>
+        <div class="filterDiv fruits">Melon</div>
+        <div class="filterDiv fruits animals">Kiwi</div>
+        <div class="filterDiv fruits">Banana</div>
+        <div class="filterDiv fruits">Lemon</div>
+        <div class="filterDiv animals">Cow</div>
+      </div>
+      
+      
+      
+      
     <ol class='days' start='0'>ACTIVITY:
       <li id='zero'>
         2018_09_10: Monday - Commit to #100DaysOfCode project, tweet link to calendar.
