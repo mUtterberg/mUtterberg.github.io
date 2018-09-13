@@ -8,3 +8,8 @@ To Do:
 * [Partition HTML](https://www.w3schools.com/howto/howto_html_include.asp) into monthly or weekly files.
 
 * Parse GitHub commits for contributions calendar copycat?
+
+
+In-progress sources to attribute:
+
+[HTML Calendar](https://www.htmlgoodies.com/tutorials/tables/article.php/3479801/So-You-Want-A-Calendar-Huh.htm)
