@@ -55,3 +55,7 @@
 .data {
     background-color: lightyellow;
 }
+
+#calendars {
+    padding-bottom: 5px;
+}
