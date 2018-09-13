@@ -18,7 +18,6 @@
 /* The "show" class is added to the filtered elements */
 .show {
     display: block;
-    background-color: lightyellow;
 }
 
 /* Style the buttons */
@@ -42,5 +41,9 @@
 }
 
 .data {
-/*     background-color: lightyellow; */
+    background-color: lightyellow;
+}
+
+.web {
+    background-color: lightblue;
 }
