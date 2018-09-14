@@ -42,7 +42,7 @@ for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
     var current = document.getElementsByClassName("active");
     
-    for (var j=0; i < current.length; j++) {
+    for (var j = 0; j < current.length; j++) {
     window.alert(current[j].className);
     }
     
