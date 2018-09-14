@@ -35,7 +35,7 @@
 }
 
 /* Add a dark background to the active button */
-.btn.active {
+.btn:active {
   background-color: #666;
   color: white;
 }
