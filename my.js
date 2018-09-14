@@ -92,3 +92,11 @@ var trackOutboundLink = function(url) {
     'event_callback': function(){document.location = url;}
   });
 }
+
+// Track filtering
+var trackFilters = function(c) {
+  gtag('event', 'click', {
+    'event_category': 'Filtered Views',
+    'event_label': c
+  });
+}
