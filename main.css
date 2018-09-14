@@ -1,5 +1,10 @@
 .days > li { border-bottom: 1px solid indigo; padding-bottom: 5px; margin-bottom: 5px;}
 
+#calendars {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
 .container {
     overflow: hidden;
 }
@@ -60,7 +65,10 @@
     background-color: lightyellow;
 }
 
-#calendars {
-    padding-bottom: 15px;
-    margin-bottom: 15px;
+#footer {
+    background-image: 'ai-blur-codes-577585.jpg';
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
 }
