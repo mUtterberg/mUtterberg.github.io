@@ -47,7 +47,9 @@ for (var i = 0; i < btns.length; i++) {
     }
     
     current[0].className = current[0].className.replace(" active", "");
-    current[1].className += " active";
+    window.alert(this.className);
+    this.className += " active";
+    window.alert(this.className);
   });
 }
 
