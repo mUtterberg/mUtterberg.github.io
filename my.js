@@ -41,7 +41,11 @@ var btns = btnContainer.getElementsByClassName("w3-btn");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
     var current = document.getElementsByClassName("active");
-    window.alert(current);
+    
+    for (var j=0; i < current.length; j++) {
+    window.alert(current[j].className);
+    }
+    
     current[0].className = current[0].className.replace(" active", "");
     current[1].className += " active";
   });
