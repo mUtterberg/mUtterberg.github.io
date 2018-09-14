@@ -87,12 +87,12 @@
 
           <!-- Control buttons -->
           <div id="myBtnContainer">
-            <button class="a w3-btn active" onclick="filterSelection('all')"> Show all</button>
-            <button class="d w3-btn" onclick="filterSelection('data')"> Data/ML</button>
-            <button class="w w3-btn" onclick="filterSelection('web')"> Web</button>
-            <button class="k w3-btn" onclick="filterSelection('kata')"> Kata/Course</button>
-            <button class="o w3-btn" onclick="filterSelection('org')"> Org/community</button>
-            <button class="t w3-btn" onclick="filterSelection('tbd')"> Other</button>
+            <button class="a w3-btn active" onclick="filterSelection('all'); trackFilters('all');"> Show all</button>
+            <button class="d w3-btn" onclick="filterSelection('data'); trackFilters('data');"> Data/ML</button>
+            <button class="w w3-btn" onclick="filterSelection('web'); trackFilters('web');"> Web</button>
+            <button class="k w3-btn" onclick="filterSelection('kata'); trackFilters('kata');"> Kata/Course</button>
+            <button class="o w3-btn" onclick="filterSelection('org'); trackFilters('org');"> Org/community</button>
+            <button class="t w3-btn" onclick="filterSelection('tbd'); trackFilters('tbd');"> Other</button>
           </div>
 
           <li class='sept' id='zero'>
