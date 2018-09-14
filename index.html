@@ -36,7 +36,7 @@
   <body>
     <nav class="nav">
       <a class="nav-link active" href="#">My #100DaysOfCode Project Home</a>
-      <a class="nav-link active" href="#calendars">Jump to Calendars</a>
+      <a class="nav-link active" href="#activity">Jump to Activity</a>
       <a class="nav-link" href="https://www.github.com/mutterberg/mutterberg.github.io">My #100DaysOfCode Source Repo</a>
       <a class="nav-link" href="https://utterbergdatadev.com/">My Professional Portfolio</a>
       <a class="nav-link" href="https://paypal.me/mutterberg">Buy Me a Coffee</a>
@@ -58,8 +58,10 @@
       <p>
         Note: The official challenge site (<a href="https://www.100daysofcode.com/">100daysofcode.com</a>) has recommendations and <a href="https://github.com/kallaway/100-days-of-code">resources</a> for anyone wishing to undertake similar endeavors. They recommend tweeting about progress daily, but I'm choosing to tweet weekly or as needed.
       </p>
-    
       
+      <!-- Calendars load here -->
+      <div w3-include-html='calendars.html' id='calendars'></div>
+    
       
 <!--           New day starter:
 
@@ -73,7 +75,7 @@
       
       
       <!-- Container classes set to hide elements when filtering. ('overflow: hidden;' in main.css) -->
-      <div class='container'>
+      <div class='container' id='activity'>
         <ol class='days' start='0'>ACTIVITY:
 
           <!-- Control buttons -->
@@ -141,8 +143,6 @@
         </ol>
       </div>
     </div>
-    
-    <div w3-include-html='calendars.html' id='calendars'></div>
 
     <!-- Load scripts -->
     <script src='my.js'></script>
