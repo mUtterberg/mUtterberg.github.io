@@ -42,42 +42,50 @@
       <a class="nav-link" href="https://utterbergdatadev.com/" onclick="trackOutboundLink('https://utterbergdatadev.com/'); return false;">My Professional Portfolio</a>
       <a class="nav-link" href="https://paypal.me/mutterberg" onclick="trackOutboundLink('https://paypal.me/mutterberg'); return false;">Buy Me a Coffee</a>
     </nav>
-    <div class="container" id='content'>
+    <div class="container-fluid" id='content'>
       
       <!-- Content block above calendars -->
-      <div class>
-          <h1>#100DaysOutLoud</h1>
-        <p>This site is currently hosted on GitHub Pages (<a href="https://www.github.com/mutterberg/mutterberg.github.io" onclick="trackOutboundLink('https://www.github.com/mutterberg/mutterberg.github.io'); return false;">source code here</a>) and serves as the landing page for my #100DaysOfCode documentation.</p>
-        <p>Part of my motivation for this endeavor is to ensure that I am coding out in the open, as too much of my development has been on private projects.</p>
-        
-
-
-        <div id="accordion">
-          <div class="card">
-            <div class="card-header" id="headingOne">
-              <h5 class="mb-0">
-              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">GOALS/GUIDELINES:</button>
-              </h5>
+      <div id='accordion'>
+<!--           <h1>#100DaysOutLoud</h1> -->
+<!--         <div id="accordion"> -->
+        <div class="card">
+          <div class="card-header" id="headingZero">
+            <h5 class="mb-0">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseZero">#100DaysOutLoud</button>
+            </h5>
+          </div>
+          <div id="collapseZero" class="collapse show" aria-labelledby="headingZero" data-parent="#accordion">
+            <div class="card-body">
+              <p>This site is currently hosted on GitHub Pages (<a href="https://www.github.com/mutterberg/mutterberg.github.io" onclick="trackOutboundLink('https://www.github.com/mutterberg/mutterberg.github.io'); return false;">source code here</a>) and serves as the landing page for my #100DaysOfCode documentation.</p>
+              <p>Part of my motivation for this endeavor is to ensure that I am coding out in the open, as too much of my development has been on private projects.</p>
             </div>
-            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-              <div class="card-body">
-                <ul>
-                  <li class='goal'>Commit to at least 60 minutes per day of coding visibly - public projects held in public repos.</li>
-                  <li class='goal'>Document #100DaysOfCode activity daily.</li>
-                  <li class='goal'>Publish notes (with link to project repo) on GitHub Project Page for each project.</li>
-                  <li class='goal'>Organize projects by domain: Data Science / ML, Web Dev, Community Engineering, Fundamentals, etc.</li>
-                  <li class='goal'>No need to tweet about it daily, just document it here and tweet as usual.</li>
-                  <li class='goal'>Aim for >15 GitHub commits per day.</li>
-                </ul>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">GOALS/GUIDELINES:</button>
+            </h5>
+          </div>
+          <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              <ul>
+                <li class='goal'>Commit to at least 60 minutes per day of coding visibly - public projects held in public repos.</li>
+                <li class='goal'>Document #100DaysOfCode activity daily.</li>
+                <li class='goal'>Publish notes (with link to project repo) on GitHub Project Page for each project.</li>
+                <li class='goal'>Organize projects by domain: Data Science / ML, Web Dev, Community Engineering, Fundamentals, etc.</li>
+                <li class='goal'>No need to tweet about it daily, just document it here and tweet as usual.</li>
+                <li class='goal'>Aim for >15 GitHub commits per day.</li>
+              </ul>
 
-                <p>
-                  Note: The official challenge site (<a href="https://www.100daysofcode.com/">100daysofcode.com</a>) has recommendations and <a href="https://github.com/kallaway/100-days-of-code">resources</a> for anyone wishing to undertake similar endeavors. They recommend tweeting about progress daily, but I'm choosing to tweet weekly or as needed.
-                </p>
-              </div>
+              <p>
+                Note: The official challenge site (<a href="https://www.100daysofcode.com/">100daysofcode.com</a>) has recommendations and <a href="https://github.com/kallaway/100-days-of-code">resources</a> for anyone wishing to undertake similar endeavors. They recommend tweeting about progress daily, but I'm choosing to tweet weekly or as needed.
+              </p>
             </div>
           </div>
         </div>
       </div>
+    </div>
       
       <!-- Calendars load here -->
       <div w3-include-html='calendars.html' id='calendars'></div>
