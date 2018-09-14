@@ -40,7 +40,7 @@ var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("w3-btn");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
+    var current = document.getElementsByClassName("w3-btn active");
     
     for (var j = 0; j < current.length; j++) {
     window.alert(current[j].className);
