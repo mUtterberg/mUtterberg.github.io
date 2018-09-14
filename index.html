@@ -32,12 +32,13 @@
       
 //       DO I NEED ANALYTICS.JS FOR THESE?
       
-      ga('send', {
-        hitType: 'event',
-        eventCategory: 'w3-btn',
-        eventAction: 'click',
-        eventLabel: 'Filter Views'
+      gtag('event', 'click', {
+        'event_category': 'w3-btn',
+        'event_label': 'Filter Views',
       });
+      
+      gtag('event', 'select_content');
+      
       function handleOutboundLinkClicks(event) {
         ga('send', 'event', {
           eventCategory: 'Outbound Link',
