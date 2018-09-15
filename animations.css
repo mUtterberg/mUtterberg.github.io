@@ -9,8 +9,8 @@
 }
 
 #accordion {
-  -webkit-animation: fadeinelement 10s linear;
-  animation: fadeinelement 10s linear;
+  -webkit-animation: fadeinelement 5s linear;
+  animation: fadeinelement 5s linear;
 
 }
 
