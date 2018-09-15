@@ -8,7 +8,7 @@
   to {opacity: 1;)
 }
 
-#footer {
+#accordion, #footer {
   -webkit-animation: fadeinelement 10s linear;
   animation: fadeinelement 10s linear;
 
