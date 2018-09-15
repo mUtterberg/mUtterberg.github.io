@@ -1,0 +1,11 @@
+@keyframes fadeinelement {
+0% {opacity: 0;}
+100% {opacity: 1;)
+}
+
+#footer {
+animation-name: fadeinelement;
+animation-duration: 10s;
+animation-delay: 5s;
+animation-iteration-count: 2;
+}
