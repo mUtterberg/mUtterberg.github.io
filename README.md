@@ -10,7 +10,9 @@ To Do:
 
 In-progress sources to attribute:
 
-[HTML Calendar](https://www.htmlgoodies.com/tutorials/tables/article.php/3479801/So-You-Want-A-Calendar-Huh.htm)
+* [HTML Calendar](https://www.htmlgoodies.com/tutorials/tables/article.php/3479801/So-You-Want-A-Calendar-Huh.htm)
+
+* [Changing Octave default terminal in Mac](https://codingnightly.wordpress.com/2015/02/18/change-octave-default-terminal-in-mac/)
 
 NOTE TO SELF:
 
