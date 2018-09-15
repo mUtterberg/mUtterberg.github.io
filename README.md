@@ -6,6 +6,7 @@ To Do:
 
 * Parse GitHub commits for contributions calendar copycat?
 
+* Look into [fivethirtyeight](https://github.com/fivethirtyeight/data)
 
 In-progress sources to attribute:
 
