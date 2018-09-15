@@ -1,3 +1,7 @@
+#accordion {
+    animation: fadeinelements 5s linear;
+}
+
 #calendars {
     margin: 1em auto 1em auto;
     width: 90%;
@@ -96,4 +100,8 @@ hr:after {
     background-size: contain;
     background-position-x: center;
     background-position-y: center;
+}
+
+#foot2 {
+    animation: slidein 10s infinite;
 }
