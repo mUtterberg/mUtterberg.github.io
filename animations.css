@@ -8,8 +8,24 @@
   to {opacity: 1;)
 }
 
-#accordion, #footer {
+#accordion {
   -webkit-animation: fadeinelement 10s linear;
   animation: fadeinelement 10s linear;
+
+}
+
+@-webkit-keyframes slidein {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+@keyframes slidein {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+  
+#footer {
+  -webkit-animation: slidein 10s linear infinite;
+  animation: slidein 10s linear infinite;
 
 }
