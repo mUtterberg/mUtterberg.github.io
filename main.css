@@ -1,8 +1,8 @@
 #accordion {
-  -webkit-animation: fadeinelement 5s linear;
-  -moz-animation: fadeinelement 5s; /* Fx 5+ */
-  -o-animation: fadeinelement 5s; /* Opera 12+ */
-  animation: fadeinelement 5s linear;
+  -webkit-animation: fadeinelement 4s ease-out;
+  -moz-animation: fadeinelement 4s ease-out; /* Fx 5+ */
+  -o-animation: fadeinelement 4s ease-out; /* Opera 12+ */
+  animation: fadeinelement 4s ease-out;
 }
 
 #calendars {
