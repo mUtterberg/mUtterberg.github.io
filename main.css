@@ -29,6 +29,11 @@ hr:after {
     background: white;
 }
 
+#myBtnContainer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 .filterDiv {
 /*     float: left; */
 /*     background-color: #2196F3;
