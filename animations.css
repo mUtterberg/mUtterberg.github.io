@@ -9,8 +9,7 @@
 }
 
 #footer {
-  -webkit-animation-name: fadeinelement;
-  -webkit-animation-duration: 10s;
-  animation-name: fadeinelement;
-  animation-duration: 10s;
+  -webkit-animation: fadeinelement 10s linear;
+  animation: fadeinelement 10s linear;
+
 }
