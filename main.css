@@ -133,21 +133,21 @@ hr:after {
 }
   
 @-webkit-keyframes slidein {
-  from { transform: scaleX(0); }
-  to   { transform: scaleX(1); }
+  from { left: 0%; }
+  to { left: 50%; }
 }
   
 @-moz-keyframes slidein {
-  from { transform: scaleX(0); }
-  to   { transform: scaleX(1); }
+  from { left: 0%; }
+  to { left: 50%; }
 }
   
 @-o-keyframes slidein {
-  from { transform: scaleX(0); }
-  to   { transform: scaleX(1); }
+  from { left: 0%; }
+  to { left: 50%; }
 }
 
 @keyframes slidein {
-  from { transform: scaleX(0); }
-  to   { transform: scaleX(1); }
+  from { left: 0%; }
+  to { left: 50%; }
 }
