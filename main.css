@@ -11,7 +11,8 @@
 }
 
 #calendars a:hover {
-  background: #ebedf0;
+  color: white;
+  background-color: #ebedf0;
 }
 
 #activity {
