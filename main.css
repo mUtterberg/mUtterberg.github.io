@@ -103,6 +103,9 @@ hr:after {
     background-size: contain;
     background-position-x: center;
     background-position-y: center;
+}
+
+#foot2 {
     -webkit-animation: slidein 10s linear infinite;
     -moz-animation: slidein 10s linear infinite; /* Fx 5+ */
     -o-animation: slidein 10s linear infinite; /* Opera 12+ */
