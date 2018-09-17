@@ -101,8 +101,8 @@ hr:after {
     background-image: url('ai-blur-codes-577585.jpg');
     background-repeat: no-repeat;
     background-size: contain;
-/*     background-position-x: center;
-    background-position-y: center; */
+    background-position-x: center;
+    background-position-y: center;
     -webkit-animation: slidein 10s linear infinite;
     -moz-animation: slidein 10s linear infinite; /* Fx 5+ */
     -o-animation: slidein 10s linear infinite; /* Opera 12+ */
