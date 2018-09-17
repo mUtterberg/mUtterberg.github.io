@@ -10,6 +10,11 @@
     width: 90%;
 }
 
+#calendars td {
+  background-color: var(--status-fill, var(--my-bg, snow));
+  color: var(--status-text, black);
+}
+
 #calendars a:hover {
   color: white;
   background-color: #ebedf0;
