@@ -8,6 +8,8 @@ To Do:
 
 * Look into [fivethirtyeight](https://github.com/fivethirtyeight/data)
 
+* Factory reset MacBook. Here's my [OneTab history](https://www.one-tab.com/page/zLlWN5VfSNqkzSf5fE2-rw), just in case!
+
 In-progress sources to attribute:
 
 * [HTML Calendar](https://www.htmlgoodies.com/tutorials/tables/article.php/3479801/So-You-Want-A-Calendar-Huh.htm)
