@@ -11,7 +11,7 @@
 }
 
 #calendars td {
-  background-color: var(--status-fill, var(--my-bg, snow));
+  background-color: var(--status-fill, var(--my-bg, white));
   color: var(--status-text, black);
 }
 
