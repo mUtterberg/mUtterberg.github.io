@@ -1,3 +1,10 @@
+#accordion {
+  -webkit-animation: fadeinelement 4s ease-out;
+  -moz-animation: fadeinelement 4s ease-out; /* Fx 5+ */
+  -o-animation: fadeinelement 4s ease-out; /* Opera 12+ */
+  animation: fadeinelement 4s ease-out;
+}
+
 @-webkit-keyframes fadeinelement {
   from { opacity: 0; }
   to { opacity: 1; )
