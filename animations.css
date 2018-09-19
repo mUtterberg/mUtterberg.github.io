@@ -8,10 +8,10 @@
 }
 
 #foot2 {
-    -webkit-animation: slidein 10s linear infinite;
+    -webkit-animation: fadeinelement 10s linear infinite;
     -moz-animation: slidein 10s linear infinite; /* Fx 5+ */
     -o-animation: slidein 10s linear infinite; /* Opera 12+ */
-    animation: slidein 10s linear infinite;
+    animation: fadeinelement 10s linear infinite;
 }
 
 
