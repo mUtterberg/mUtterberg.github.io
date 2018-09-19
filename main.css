@@ -1,9 +1,10 @@
-#accordion {
+/* #accordion {
   -webkit-animation: fadeinelement 4s ease-out;
-  -moz-animation: fadeinelement 4s ease-out; /* Fx 5+ */
-  -o-animation: fadeinelement 4s ease-out; /* Opera 12+ */
+  -moz-animation: fadeinelement 4s ease-out; /* Fx 5+ 
+  -o-animation: fadeinelement 4s ease-out; /* Opera 12+
   animation: fadeinelement 4s ease-out;
 }
+ */
 
 #calendars {
     margin: 1em auto 1em auto;
