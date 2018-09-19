@@ -16,6 +16,16 @@ In-progress sources to attribute:
 
 * [Changing Octave default terminal in Mac](https://codingnightly.wordpress.com/2015/02/18/change-octave-default-terminal-in-mac/)
 
+* [MemoryError when trying to install SimpleCV](https://github.com/OpenLabTools/OpenLabTools/issues/5) source for `--no-cache-dir`
+
+* [How OpenCV-Python Bindings Work](https://docs.opencv.org/master/da/d49/tutorial_py_bindings_basics.html).
+
+* [OpenCV-Python tutorials](https://opencvpython.blogspot.com)
+
+* [Low-Cost Raspberry Pi Robot with Computer Vision](https://jeremykarnowski.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision).
+
+* [Real-time object detection API using Tensorflow and OpenCV](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4).
+
 NOTE TO SELF:
 
 This repo automatically deploys to datadev.me (registered free on namecheap.com for 1 year from 6/13/2018) so
