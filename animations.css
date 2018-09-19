@@ -7,7 +7,7 @@
   animation: fadeinelement 4s ease-out;
 }
 
-#foot2 {
+#foot2 p {
     -webkit-animation: fadeinelement 10s linear infinite both running;
     -moz-animation: slidein 10s linear infinite; /* Fx 5+ */
     -o-animation: slidein 10s linear infinite; /* Opera 12+ */
