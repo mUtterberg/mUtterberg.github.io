@@ -38,20 +38,20 @@
 }
   
 @-webkit-keyframes slidein {
-  from { left: 0%; }
-  to { left: 50%; }
+  from { transformX: 0; }
+  to { transformX: 1; }
 }
   
 @-moz-keyframes slidein {
-  from { left: 0%; }
-  to { left: 50%; }
+  from { transformX: 0; }
+  to { transformX: 1; }
 }
   
 @-o-keyframes slidein {
-  from { left: 0%; }
-  to { left: 50%; }
+  from { transformX: 0; }
+  to { transformX: 1; }
 }
 
 @keyframes slidein {
-  from { left: 0%; }
-  to { left: 50%; }
+  from { transformX: 0; }
+  to { transformX: 1; }
