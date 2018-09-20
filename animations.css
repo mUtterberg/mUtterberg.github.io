@@ -38,20 +38,20 @@
 }
   
 @-webkit-keyframes slidein {
-  from { transformX: 0; }
-  to { transformX: 1; }
+  from { transform: translateX(0); }
+  to { transform: translateX(1); }
 }
   
 @-moz-keyframes slidein {
-  from { transformX: 0; }
-  to { transformX: 1; }
+  from { transform: translateX(0); }
+  to { transform: translateX(1); }
 }
   
 @-o-keyframes slidein {
-  from { transformX: 0; }
-  to { transformX: 1; }
+  from { transform: translateX(0); }
+  to { transform: translateX(1); }
 }
 
 @keyframes slidein {
-  from { transformX: 0; }
-  to { transformX: 1; }
+  from { transform: translateX(0); }
+  to { transform: translateX(1); }
