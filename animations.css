@@ -39,7 +39,7 @@
   
 @-webkit-keyframes slidein {
   from { transform: translateX(0); }
-  to { transform: translateX(100px); }
+  to { transform: translateX(1); }
 }
   
 @-moz-keyframes slidein {
@@ -53,5 +53,5 @@
 }
 
 @keyframes slidein {
-  from { transform: translateX(-100px); }
-  to { transform: translateX(100px); }
+  from { transform: translatex(10px); }
+  to { transform: translatex(100px); }
