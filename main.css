@@ -17,7 +17,16 @@
     overflow: hidden;
 }
 
-.days > li { border-bottom: 1px solid indigo; padding-bottom: 5px; margin-bottom: 5px; list-style-type: circle;}
+.days > li {
+    border-bottom: 1px solid indigo;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    list-style-type: none;
+}
+
+.days li li {
+    list-style-type: circle;
+}
 
 /* Glyph, by Harry Roberts */
 
