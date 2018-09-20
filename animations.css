@@ -53,5 +53,5 @@
 }
 
 @keyframes slidein {
-  from { transform: translateX(0); }
+  from { transform: translateX(-100px); }
   to { transform: translateX(100px); }
