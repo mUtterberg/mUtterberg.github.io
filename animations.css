@@ -8,7 +8,7 @@
 }
 
 #foot2 p {
-    -webkit-animation: slidein 10s linear infinite both running;
+    -webkit-animation: slidein 10s infinite both running;
     -moz-animation: slidein 10s linear infinite; /* Fx 5+ */
     -o-animation: slidein 10s linear infinite; /* Opera 12+ */
     animation: slidein 10s linear infinite both running;
