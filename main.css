@@ -24,7 +24,7 @@
     list-style-type: none;
 }
 
-.days li li {
+.days li ul li {
     list-style-type: circle;
 }
 
