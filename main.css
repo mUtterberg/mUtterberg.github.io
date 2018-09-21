@@ -24,10 +24,10 @@
     list-style-type: none;
 }
 
-li.filterDiv {
+/* li.filterDiv {
     list-style-type: circle;
 }
-
+ */
 /* Glyph, by Harry Roberts */
 
 hr {
@@ -60,6 +60,7 @@ hr:after {
 /* The "show" class is added to the filtered elements */
 .show {
     display: block;
+    list-style-type: circle;
 }
 
 /* Style the buttons */
