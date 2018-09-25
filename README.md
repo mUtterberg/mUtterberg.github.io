@@ -28,6 +28,8 @@ In-progress sources to attribute:
 
 * [Real-time object detection API using Tensorflow and OpenCV](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4).
 
+* [First 5 minutes on a server](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
+
 NOTE TO SELF:
 
 This repo automatically deploys to datadev.me (registered free on namecheap.com for 1 year from 6/13/2018) so
