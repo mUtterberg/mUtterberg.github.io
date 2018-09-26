@@ -141,3 +141,19 @@ hr:after {
    overflow: hidden;
    height: 320px;
 }
+
+/* IMAGE LIST */
+
+#slider ul {
+   margin: 0;
+   padding: 0;
+   position: relative;
+}
+
+#slider li {
+   width: 680px;  /* Width Image */
+   height: 320px; /* Height Image */
+   position: absolute;
+   top: -325px; /* Original Position - Outside of the Slider */
+   list-style: none;
+}
