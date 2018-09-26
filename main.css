@@ -68,7 +68,7 @@ hr:after {
   border: none;
   outline: none;
   padding: .8em 1em;
-  background-color: #f1f1f1;
+/*   background-color: #f1f1f1; */
   cursor: pointer;
 }
 
@@ -83,23 +83,27 @@ hr:after {
   color: white;
 }
 
-.tbd {
+.a {
+    background-color: #f1f1f1;
+}
+
+.tbd, .t {
     background-color: linen;
 }
 
-.org {
+.org, .o {
     background-color: snow;
 }
 
-.web {
+.web, .w {
     background-color: aliceblue;
 }
 
-.kata {
+.kata, .k {
     background-color: lavender;
 }
 
-.data {
+.data, .d {
     background-color: lightyellow;
 }
 
