@@ -134,3 +134,10 @@ hr:after {
    overflow: visible;
    position: relative;
 }
+
+/* HIDE ALL OUTSIDE OF THE SLIDER */
+
+#mask {
+   overflow: hidden;
+   height: 320px;
+}
