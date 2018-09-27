@@ -46,29 +46,29 @@
   to { opacity: 1; }
 }
   
-/* HORIZONTAL SLIDER */
+/* HORIZONTAL SLIDER - ALTERNATE FOR PONG TICKER */
   
 @-webkit-keyframes slidein {
-  from { transform: translateX(-10em); }
-  to { transform: translateX(10em); }
+  from { transform: translateX(-3.5em); }
+  to { transform: translateX(3.5em); }
 }
   
 @-moz-keyframes slidein {
-  from { transform: translateX(-1); }
-  to { transform: translateX(1); }
+  from { transform: translateX(-3.5em); }
+  to { transform: translateX(3.5em); }
 }
   
 @-o-keyframes slidein {
-  from { transform: translateX(-1); }
-  to { transform: translateX(1); }
+  from { transform: translateX(-3.5em); }
+  to { transform: translateX(3.5em); }
 }
 
 @-ms-keyframes slidein {
-  from { transform: translatex(-1); }
-  to { transform: translatex(1); }
+  from { transform: translatex(-3.5em); }
+  to { transform: translatex(3.5em); }
 }
 
 @keyframes slidein {
-  from { transform: translatex(-10em); }
-  to { transform: translatex(10em); }
+  from { transform: translatex(-3.5em); }
+  to { transform: translatex(3.5em); }
 }
