@@ -9,11 +9,11 @@
 }
 
 #foot2 p {
-    -webkit-animation: slidein 10s linear infinite both running;
-    -moz-animation: slidein 10s linear infinite; /* Fx 5+ */
-    -o-animation: slidein 10s linear infinite; /* Opera 12+ */
-    -ms-animation: slidein 10s linear infinite both running;
-    animation: slidein 10s linear infinite both running;
+    -webkit-animation: slidein 10s linear infinite both alternate;
+    -moz-animation: slidein 10s linear infinite alternate; /* Fx 5+ */
+    -o-animation: slidein 10s linear infinite alternate; /* Opera 12+ */
+    -ms-animation: slidein 10s linear infinite both alternate;
+    animation: slidein 10s linear infinite both alternate;
 }
 
 
@@ -49,26 +49,26 @@
 /* HORIZONTAL SLIDER */
   
 @-webkit-keyframes slidein {
-  from { transform: translateX(-20em); }
-  to { transform: translateX(20em); }
+  from { transform: translateX(-1); }
+  to { transform: translateX(1); }
 }
   
 @-moz-keyframes slidein {
-  from { transform: translateX(-20em); }
-  to { transform: translateX(20em); }
+  from { transform: translateX(-1); }
+  to { transform: translateX(1); }
 }
   
 @-o-keyframes slidein {
-  from { transform: translateX(-20em); }
-  to { transform: translateX(20em); }
+  from { transform: translateX(-1); }
+  to { transform: translateX(1); }
 }
 
 @-ms-keyframes slidein {
-  from { transform: translatex(-20em); }
-  to { transform: translatex(20em); }
+  from { transform: translatex(-1); }
+  to { transform: translatex(1); }
 }
 
 @keyframes slidein {
-  from { transform: translatex(-20em); }
-  to { transform: translatex(20em); }
+  from { transform: translatex(-1); }
+  to { transform: translatex(1); }
 }
