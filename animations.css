@@ -42,21 +42,21 @@
 /* HORIZONTAL SLIDER */
   
 @-webkit-keyframes slidein {
-  from { transform: translateX(0); }
+  from { transform: translateX(-1); }
   to { transform: translateX(1); }
 }
   
 @-moz-keyframes slidein {
-  from { transform: translateX(0); }
+  from { transform: translateX(-1); }
   to { transform: translateX(1); }
 }
   
 @-o-keyframes slidein {
-  from { transform: translateX(0); }
+  from { transform: translateX(-1); }
   to { transform: translateX(1); }
 }
 
 @keyframes slidein {
-  from { transform: translatex(10px); }
-  to { transform: translatex(100px); }
+  from { transform: translatex(-200px); }
+  to { transform: translatex(200px); }
 }
