@@ -102,13 +102,13 @@ var trackFilters = function(c) {
 }
 
 // Track collapse
-$('#collapseZero').on('hidden.bs.collapse', function () {
+$('#collapseZero').on('hide.bs.collapse', function () {
   gtag('event', 'click', {
     'event_category': 'Toggles',
     'event_label': 'CloseZero'
   });
 })
-$('#collapseOne').on('hidden.bs.collapse', function () {
+$('#collapseOne').on('hide.bs.collapse', function () {
   gtag('event', 'click', {
     'event_category': 'Toggles',
     'event_label': 'CloseOne'
