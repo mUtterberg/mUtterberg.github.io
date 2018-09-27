@@ -49,8 +49,8 @@
 /* HORIZONTAL SLIDER */
   
 @-webkit-keyframes slidein {
-  from { transform: translateX(-1); }
-  to { transform: translateX(1); }
+  from { transform: translateX(-10em); }
+  to { transform: translateX(10em); }
 }
   
 @-moz-keyframes slidein {
@@ -69,6 +69,6 @@
 }
 
 @keyframes slidein {
-  from { transform: translatex(-1); }
-  to { transform: translatex(1); }
+  from { transform: translatex(-10em); }
+  to { transform: translatex(10em); }
 }
