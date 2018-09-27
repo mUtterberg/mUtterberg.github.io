@@ -49,26 +49,26 @@
 /* HORIZONTAL SLIDER */
   
 @-webkit-keyframes slidein {
-  from { transform: translateX(-1); }
-  to { transform: translateX(1); }
+  from { transform: translateX(-20em); }
+  to { transform: translateX(20em); }
 }
   
 @-moz-keyframes slidein {
-  from { transform: translateX(-1); }
-  to { transform: translateX(1); }
+  from { transform: translateX(-20em); }
+  to { transform: translateX(20em); }
 }
   
 @-o-keyframes slidein {
-  from { transform: translateX(-1); }
-  to { transform: translateX(1); }
+  from { transform: translateX(-20em); }
+  to { transform: translateX(20em); }
 }
 
 @-ms-keyframes slidein {
-  from { transform: translatex(-200px); }
-  to { transform: translatex(200px); }
+  from { transform: translatex(-20em); }
+  to { transform: translatex(20em); }
 }
 
 @keyframes slidein {
-  from { transform: translatex(-200px); }
-  to { transform: translatex(200px); }
+  from { transform: translatex(-20em); }
+  to { transform: translatex(20em); }
 }
