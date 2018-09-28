@@ -121,3 +121,7 @@ hr:after {
     background-position-x: center;
     background-position-y: center;
 }
+
+#footer:last-child {
+    text-align: center;
+}
