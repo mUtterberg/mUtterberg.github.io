@@ -122,6 +122,6 @@ hr:after {
     background-position-y: center;
 }
 
-#footer:last-child {
+#footer div:last-child {
     text-align: center;
 }
