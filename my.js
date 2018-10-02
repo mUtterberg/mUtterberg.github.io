@@ -72,7 +72,7 @@ function myHTMLInclude() {
       return;
     }
   }
-  filterSelection("all")
+  filterSelection("all");
 }
 
 })();
