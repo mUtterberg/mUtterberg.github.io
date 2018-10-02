@@ -141,7 +141,7 @@ hr:after {
     outline: none; /* Remove outline */
     /*background-color: #ebebeb; !* Maybe don't set a background color *!*/
     /*background-color: #555555; !* Original grey background color *!*/
-    color: white; /* Text color */
+    color: #555555; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
     border-radius: 10px; /* Rounded corners */
