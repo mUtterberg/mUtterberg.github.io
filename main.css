@@ -139,8 +139,8 @@ hr:after {
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */
     outline: none; /* Remove outline */
-    /*background-color: #ebebeb; !* Maybe don't set a background color *!*/
-    /*background-color: #555555; !* Original grey background color *!*/
+    background-color: #ebebeb; !* Maybe don't set a background color *!
+/*     background-color: #555555; !* Original grey background color *! */
     color: #555555; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
@@ -149,5 +149,6 @@ hr:after {
 }
 
 #myBtn:hover {
+    color: white; /* Change text to white on hover */
     background-color: #555555; /* Add a dark-grey background on hover */
 }
