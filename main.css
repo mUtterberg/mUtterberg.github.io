@@ -96,7 +96,8 @@ hr:after {
 }
 
 .iot, .i {
-    background-color: honeydew;
+    background-color: #F0FFF0;
+/*     background-color: honeydew; */
 }
 
 .web, .w {
