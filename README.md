@@ -14,7 +14,7 @@ In-progress sources to attribute:
 
 * [HTML Calendar](https://www.htmlgoodies.com/tutorials/tables/article.php/3479801/So-You-Want-A-Calendar-Huh.htm)
 
-* [Partition HTML](https://www.w3schools.com/howto/howto_html_include.asp) into monthly or weekly files.
+* [Partitioning HTML](https://www.w3schools.com/howto/howto_html_include.asp) into monthly files.
 
 * [Changing Octave default terminal in Mac](https://codingnightly.wordpress.com/2015/02/18/change-octave-default-terminal-in-mac/)
 
