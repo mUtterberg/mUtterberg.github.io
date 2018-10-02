@@ -141,7 +141,7 @@ hr:after {
     outline: none; /* Remove outline */
     background-color: #ebebeb; !* Maybe don't set a background color *!
 /*     background-color: #555555; !* Original grey background color *! */
-    color: #555555; /* Text color */
+    color: #666666; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
     border-radius: 10px; /* Rounded corners */
@@ -150,5 +150,5 @@ hr:after {
 
 #myBtn:hover {
     color: white; /* Change text to white on hover */
-    background-color: #555555; /* Add a dark-grey background on hover */
+    background-color: #666666; /* Add a dark-grey background on hover */
 }
