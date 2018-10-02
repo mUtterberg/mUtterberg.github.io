@@ -95,6 +95,10 @@ hr:after {
     background-color: snow;
 }
 
+.iot, .i {
+    background-color: honeydew;
+}
+
 .web, .w {
     background-color: aliceblue;
 }
