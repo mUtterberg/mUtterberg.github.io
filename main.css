@@ -134,8 +134,8 @@ hr:after {
 #myBtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
-    bottom: 20px; /* Place the button 20px above the bottom of the page */
-    left: 30px; /* Place the button 30px from the left */
+    bottom: 1.25em; /* Place the button above the bottom of the page - was 20px, made 1.25em */
+    left: 1.5em; /* Place the button near the left - was 30px, made 1.5em */
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */
     outline: none; /* Remove outline */
