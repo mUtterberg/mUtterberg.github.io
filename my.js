@@ -72,9 +72,8 @@ function myHTMLInclude() {
       return;
     }
   }
-  }
   filterSelection("all");
-
+}
 })();
 
 
