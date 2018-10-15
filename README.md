@@ -30,6 +30,8 @@ In-progress sources to attribute:
 
 * [First 5 minutes on a server](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
+* [Build a 3D printer in Python](https://medium.freecodecamp.org/how-to-build-a-3-d-printer-using-cnc-controller-in-python-bd3cd5e28516)
+
 NOTE TO SELF:
 
 This repo automatically deploys to datadev.me (registered free on namecheap.com for 1 year from 6/13/2018) so
