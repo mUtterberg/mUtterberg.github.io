@@ -24,7 +24,7 @@ In-progress sources to attribute:
 
 * [Low-Cost Raspberry Pi Robot with Computer Vision](https://jeremykarnowski.wordpress.com/2015/08/26/low-cost-raspberry-pi-robot-with-computer-vision).
 
-* [Real-time object detection API using Tensorflow and OpenCV](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4).
+* [Real-time object detection with Google's API](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4).
 
 * [Getting started with Linode](https://www.linode.com/docs/getting-started/#connect-to-your-linode-via-ssh)
 
