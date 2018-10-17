@@ -8,12 +8,6 @@ To Do:
 
 * Factory reset MacBook. Here's my [OneTab history](https://www.one-tab.com/page/zLlWN5VfSNqkzSf5fE2-rw), just in case!
 
-In-progress sources to attribute:
-
-* [Changing Octave default terminal in Mac](https://codingnightly.wordpress.com/2015/02/18/change-octave-default-terminal-in-mac/)
-
-* [MemoryError when trying to install SimpleCV](https://github.com/OpenLabTools/OpenLabTools/issues/5) source for `--no-cache-dir`
-
 * [How OpenCV-Python Bindings Work](https://docs.opencv.org/master/da/d49/tutorial_py_bindings_basics.html).
 
 * [OpenCV-Python tutorials](https://opencvpython.blogspot.com)
@@ -22,11 +16,15 @@ In-progress sources to attribute:
 
 * [Real-time object detection with Google's API](https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4).
 
-* [Getting started with Linode](https://www.linode.com/docs/getting-started/#connect-to-your-linode-via-ssh)
-
 * [First 5 minutes on a server](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
 * [Build a 3D printer in Python](https://medium.freecodecamp.org/how-to-build-a-3-d-printer-using-cnc-controller-in-python-bd3cd5e28516)
+
+Sources to attribute:
+
+* [Changing Octave default terminal in Mac](https://codingnightly.wordpress.com/2015/02/18/change-octave-default-terminal-in-mac/)
+
+* [Getting started with Linode](https://www.linode.com/docs/getting-started/#connect-to-your-linode-via-ssh)
 
 NOTE TO SELF:
 
