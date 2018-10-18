@@ -2,6 +2,10 @@ a, button.btn {
     color: #0051AD !important;
 }
 
+a:hover, button.btn:hover {
+    color: #4D00B3 !important;
+}
+
 .mb-0 {
     font-size: 1.25rem;
     font-weight: bold;
