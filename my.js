@@ -94,7 +94,7 @@ var trackOutboundLink = function(url) {
 }
 
 // Track jumps to #activity
-$('#activity').on('click', function () {
+$('#jump_down').on('click', function () {
   gtag('event', 'click', {
     'event_category': 'PageNav',
     'event_label': 'JumpToActivity'
