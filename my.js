@@ -102,12 +102,12 @@ $('#jump_down').on('click', function () {
 })
 
 // Track jump to top
-// $('#myBtn').on('click', function () {
-//   gtag('event', 'click', {
-//     'event_category': 'PageNav',
-//     'event_label': 'JumpToTop'
-//   });
-// })
+$('#myBtn').on('click', function () {
+  gtag('event', 'click', {
+    'event_category': 'PageNav',
+    'event_label': 'JumpToTop'
+  });
+})
 
 // Track filtering
 var trackFilters = function(c) {
