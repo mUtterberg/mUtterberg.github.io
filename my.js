@@ -93,13 +93,21 @@ var trackOutboundLink = function(url) {
   });
 }
 
-// Track jumps to #activity
+// Track jump to #activity
 $('#jump_down').on('click', function () {
   gtag('event', 'click', {
     'event_category': 'PageNav',
     'event_label': 'JumpToActivity'
   });
 })
+
+// Track jump to top
+// $('#myBtn').on('click', function () {
+//   gtag('event', 'click', {
+//     'event_category': 'PageNav',
+//     'event_label': 'JumpToTop'
+//   });
+// })
 
 // Track filtering
 var trackFilters = function(c) {
