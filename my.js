@@ -93,6 +93,14 @@ var trackOutboundLink = function(url) {
   });
 }
 
+// Track jumps to #activity
+$('#activity').on('click', function () {
+  gtag('event', 'click', {
+    'event_category': 'PageNav',
+    'event_label': 'JumpToActivity'
+  });
+})
+
 // Track filtering
 var trackFilters = function(c) {
   gtag('event', 'click', {
