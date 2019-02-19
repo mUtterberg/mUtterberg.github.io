@@ -2,7 +2,7 @@
 
 To Do:
 
-* [Circuit Playground Express drum machine for Girls Who Code](https://learn.adafruit.com/adafruit-circuit-playground-express/playground-drum-machine)
+* [Circuit Playground Express drum machine](https://learn.adafruit.com/adafruit-circuit-playground-express/playground-drum-machine) for Girls Who Code
 
 * Parse GitHub commits for contributions calendar copycat?
 
