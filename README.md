@@ -2,6 +2,8 @@
 
 To Do:
 
+* [Circuit Playground Express drum machine for Girls Who Code](https://learn.adafruit.com/adafruit-circuit-playground-express/playground-drum-machine)
+
 * Parse GitHub commits for contributions calendar copycat?
 
 * Look into [fivethirtyeight](https://github.com/fivethirtyeight/data)
