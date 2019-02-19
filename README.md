@@ -2,9 +2,9 @@
 
 To Do:
 
-![Image alt text](https://i.ytimg.com/vi/zLD_77xkrW4/maxresdefault.jpg)(https://youtu.be/zLD_77xkrW4)
-
 * [Circuit Playground Express drum machine](https://learn.adafruit.com/adafruit-circuit-playground-express/playground-drum-machine) for Girls Who Code
+
+![Circuit Playground Express drum machine](https://i.ytimg.com/vi/zLD_77xkrW4/maxresdefault.jpg)(https://youtu.be/zLD_77xkrW4)
 
 * Parse GitHub commits for contributions calendar copycat?
 
