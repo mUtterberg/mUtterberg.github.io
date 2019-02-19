@@ -2,7 +2,7 @@
 
 To Do:
 
-[!Image alt text](image)(https://youtu.be/zLD_77xkrW4)
+[!Image alt text](https://i.ytimg.com/vi/zLD_77xkrW4/maxresdefault.jpg)(https://youtu.be/zLD_77xkrW4)
 
 * [Circuit Playground Express drum machine](https://learn.adafruit.com/adafruit-circuit-playground-express/playground-drum-machine) for Girls Who Code
 
